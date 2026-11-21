@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Private project source, credentials, and unpublished findings are never
+# exposed by this site.
