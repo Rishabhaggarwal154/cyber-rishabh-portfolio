@@ -29,9 +29,9 @@ export const portfolio = {
 
   /* Contact channels — intentionally empty until provided. */
   contact: {
-    email: "",
-    github: "",
-    linkedin: "",
+    email: "aggarwalrishabh154@gmail.com",
+    github: "https://github.com/Rishabhaggarwal154",
+    linkedin: "https://www.linkedin.com/in/rishabh-aggarwal-351266274/",
     /**
      * Optional secure form endpoint (for example a serverless function or a
      * privacy-conscious form provider). Leave empty and the form will clearly
@@ -43,7 +43,7 @@ export const portfolio = {
   },
 
   media: {
-    profileImage: "/images/profile.jpg",
+    profileImage: "/images/profile.png",
     resume: "/resume/rishabh-resume.pdf",
     resumeFilename: "Rishabh-Aggarwal-Resume.pdf",
   },
